@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Here's some information about myself:
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm an aspiring Data Scientist looking to start my career. I have developed necessary technical training and aptitude with the BrainStation Data Scientist bootcamp. Please take a look at my journey there:
+
+I look forwards to working with you!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[miahnaseem@gmail.com](mailto:miahnaseem@gmail.com)
